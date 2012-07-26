@@ -1,0 +1,5 @@
+package kartoffel
+
+func nothing() {
+
+}
